@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/Plant-Store/static/css/main.073c9b0a.css",
+    "main.js": "/Plant-Store/static/js/main.d8bad992.js",
+    "static/js/787.bb8659ff.chunk.js": "/Plant-Store/static/js/787.bb8659ff.chunk.js",
+    "static/media/logo.svg": "/Plant-Store/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/Plant-Store/index.html",
+    "main.073c9b0a.css.map": "/Plant-Store/static/css/main.073c9b0a.css.map",
+    "main.d8bad992.js.map": "/Plant-Store/static/js/main.d8bad992.js.map",
+    "787.bb8659ff.chunk.js.map": "/Plant-Store/static/js/787.bb8659ff.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.d8bad992.js"
+  ]
+}
