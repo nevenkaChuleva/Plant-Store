@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/Plant-Store/static/css/main.7bf49c22.css",
-    "main.js": "/Plant-Store/static/js/main.edbda31d.js",
+    "main.css": "/Plant-Store/static/css/main.93b4efb7.css",
+    "main.js": "/Plant-Store/static/js/main.7232ec62.js",
     "static/media/headerBackground.png": "/Plant-Store/static/media/headerBackground.720539076f94f14a5883.png",
     "static/media/serviceTwoBackground.png": "/Plant-Store/static/media/serviceTwoBackground.0759d0d9432b492df9cc.png",
     "static/media/locationBackground.png": "/Plant-Store/static/media/locationBackground.487682546c8994c56465.png",
@@ -15,11 +15,11 @@
     "static/media/Logo.svg": "/Plant-Store/static/media/Logo.5cf75285a4e1b9100ad4a6309534a8a3.svg",
     "static/media/leafDesign.svg": "/Plant-Store/static/media/leafDesign.39aee44695d6a044cc5dc97f7c3b6625.svg",
     "index.html": "/Plant-Store/index.html",
-    "main.7bf49c22.css.map": "/Plant-Store/static/css/main.7bf49c22.css.map",
-    "main.edbda31d.js.map": "/Plant-Store/static/js/main.edbda31d.js.map"
+    "main.93b4efb7.css.map": "/Plant-Store/static/css/main.93b4efb7.css.map",
+    "main.7232ec62.js.map": "/Plant-Store/static/js/main.7232ec62.js.map"
   },
   "entrypoints": [
-    "static/css/main.7bf49c22.css",
-    "static/js/main.edbda31d.js"
+    "static/css/main.93b4efb7.css",
+    "static/js/main.7232ec62.js"
   ]
 }
