@@ -1,13 +1,25 @@
 {
   "files": {
-    "main.css": "/Plant-Store/static/css/main.abd64e84.css",
-    "main.js": "/Plant-Store/static/js/main.b7ad5a5a.js",
+    "main.css": "/Plant-Store/static/css/main.c6226828.css",
+    "main.js": "/Plant-Store/static/js/main.7232ec62.js",
+    "static/media/headerBackground.png": "/Plant-Store/static/media/headerBackground.720539076f94f14a5883.png",
+    "static/media/serviceTwoBackground.png": "/Plant-Store/static/media/serviceTwoBackground.0759d0d9432b492df9cc.png",
+    "static/media/locationBackground.png": "/Plant-Store/static/media/locationBackground.487682546c8994c56465.png",
+    "static/media/shopBackground.png": "/Plant-Store/static/media/shopBackground.f23d87b22a8ace14ec4e.png",
+    "static/media/serviceTwoForeground.png": "/Plant-Store/static/media/serviceTwoForeground.b2c7f2f5162d15bcaf42.png",
+    "static/media/mask.png": "/Plant-Store/static/media/mask.4a600f28756a39319d5a.png",
+    "static/media/cardPicture04.png": "/Plant-Store/static/media/cardPicture04.8114606b05f09bcdc883.png",
+    "static/media/cardPicture03.png": "/Plant-Store/static/media/cardPicture03.fb200cbfcf95cf83fa74.png",
+    "static/media/cardPicture01.png": "/Plant-Store/static/media/cardPicture01.4d153192a3a3ad7800f7.png",
+    "static/media/cardPicture02.png": "/Plant-Store/static/media/cardPicture02.fa1a27633b0e40be170b.png",
+    "static/media/Logo.svg": "/Plant-Store/static/media/Logo.5cf75285a4e1b9100ad4a6309534a8a3.svg",
+    "static/media/leafDesign.svg": "/Plant-Store/static/media/leafDesign.39aee44695d6a044cc5dc97f7c3b6625.svg",
     "index.html": "/Plant-Store/index.html",
-    "main.abd64e84.css.map": "/Plant-Store/static/css/main.abd64e84.css.map",
-    "main.b7ad5a5a.js.map": "/Plant-Store/static/js/main.b7ad5a5a.js.map"
+    "main.c6226828.css.map": "/Plant-Store/static/css/main.c6226828.css.map",
+    "main.7232ec62.js.map": "/Plant-Store/static/js/main.7232ec62.js.map"
   },
   "entrypoints": [
-    "static/css/main.abd64e84.css",
-    "static/js/main.b7ad5a5a.js"
+    "static/css/main.c6226828.css",
+    "static/js/main.7232ec62.js"
   ]
 }
