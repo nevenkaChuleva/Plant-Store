@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/Plant-Store/static/css/main.93b4efb7.css",
-    "main.js": "/Plant-Store/static/js/main.7232ec62.js",
+    "main.css": "/Plant-Store/static/css/main.1499d148.css",
+    "main.js": "/Plant-Store/static/js/main.9f91369b.js",
     "static/media/headerBackground.png": "/Plant-Store/static/media/headerBackground.720539076f94f14a5883.png",
     "static/media/serviceTwoBackground.png": "/Plant-Store/static/media/serviceTwoBackground.0759d0d9432b492df9cc.png",
     "static/media/locationBackground.png": "/Plant-Store/static/media/locationBackground.487682546c8994c56465.png",
@@ -13,13 +13,17 @@
     "static/media/cardPicture01.png": "/Plant-Store/static/media/cardPicture01.4d153192a3a3ad7800f7.png",
     "static/media/cardPicture02.png": "/Plant-Store/static/media/cardPicture02.fa1a27633b0e40be170b.png",
     "static/media/Logo.svg": "/Plant-Store/static/media/Logo.5cf75285a4e1b9100ad4a6309534a8a3.svg",
+    "static/media/plant02SVG.svg": "/Plant-Store/static/media/plant02SVG.1c2b43793ad69a28322568c654ee1f77.svg",
+    "static/media/plant03SVG.svg": "/Plant-Store/static/media/plant03SVG.8a5c494fc6d2b22bb499392b8e72d44b.svg",
+    "static/media/plant04SVG.svg": "/Plant-Store/static/media/plant04SVG.8a294c32d94832f62cb2284cc7e80f87.svg",
+    "static/media/plant01SVG.svg": "/Plant-Store/static/media/plant01SVG.83f25a9eb6b9f4b69af90cfb4a971362.svg",
     "static/media/leafDesign.svg": "/Plant-Store/static/media/leafDesign.39aee44695d6a044cc5dc97f7c3b6625.svg",
     "index.html": "/Plant-Store/index.html",
-    "main.93b4efb7.css.map": "/Plant-Store/static/css/main.93b4efb7.css.map",
-    "main.7232ec62.js.map": "/Plant-Store/static/js/main.7232ec62.js.map"
+    "main.1499d148.css.map": "/Plant-Store/static/css/main.1499d148.css.map",
+    "main.9f91369b.js.map": "/Plant-Store/static/js/main.9f91369b.js.map"
   },
   "entrypoints": [
-    "static/css/main.93b4efb7.css",
-    "static/js/main.7232ec62.js"
+    "static/css/main.1499d148.css",
+    "static/js/main.9f91369b.js"
   ]
 }
