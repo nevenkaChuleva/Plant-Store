@@ -9,5 +9,5 @@ Technologies used in this project:
 HTML, ReactJS, SCSS, 
 __________________________________________
 
-Made following this mock design from Figma :
+Made following the design from Figma :
 https://www.figma.com/community/file/897733190214205861
